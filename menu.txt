@@ -1,0 +1,12 @@
+Welcome to the Travel Management System
+----------------------------------------
+
+1) Hotel Reservations
+
+2) Car Reservations
+
+3) Flight Reservations
+
+4) Quit
+
+Please Enter Choice (1,2,3,4): 
